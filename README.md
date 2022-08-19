@@ -1,4 +1,4 @@
-### Hi there 👋
+### Done is better then perfect
 
 <!--
 **slayyed/slayyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
